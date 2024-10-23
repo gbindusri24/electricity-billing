@@ -56,4 +56,4 @@ def consumerDetails():
     input()
     print(f"Thank you for using the {params['company_name']} ELECTRICITY CUSTOMER DEPARTMENT SERVICES")
     time.sleep(2)
-    sys.exit()
+
